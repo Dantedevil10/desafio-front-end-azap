@@ -34,9 +34,12 @@ O servidor de desenvolvimento estará rodando em `http://localhost:3000`.
 
 ## Capturas de Tela
 
-Espaço para adicionar capturas de tela do projeto:
-![Screenshot 1](#)
-![Screenshot 2](#)
+<img src="https://github.com/user-attachments/assets/7a102b08-c88a-404b-8c22-fd0bcdee22c3" width="480px">
+<img src="https://github.com/user-attachments/assets/8619f14a-8c3a-4e5a-a760-0b53b28d9dc0" width="480px">
+<img src="https://github.com/user-attachments/assets/337b0269-f6d4-4225-b6e9-ab42b1283e47" width="480px">
+
+
+
 
 ## Licença
 
